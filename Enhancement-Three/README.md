@@ -1,5 +1,4 @@
-# Enhancement Three: Databases
-Artifact Description
+# Enhancement Three: Databases Artifact Description
 The artifact I used for this milestone is the same Android app that I have been working on for my other enhancements. The app originally started as an inventory tracking app. I decided to keep building onto it and turn it into something that could be used for a computer repair business.
 For this milestone, I worked mostly on how the repair information is saved. I wanted to make sure that when I added a repair, the information would still be there after I closed the app. I also wanted to be able to go back to an old repair and make changes to it without creating a new record.
 Why I Chose This Enhancement
