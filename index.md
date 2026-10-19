@@ -24,21 +24,22 @@ The artifacts in my ePortfolio show that progress. They demonstrate how I have w
 Completing this program has helped me see more possibilities for my future in IT. Whether I am working remotely for a company or eventually running my own repair business, I plan to continue learning and improving my skills as technology changes.
 
 
-## CS 499 Capstone Project Artifacts
-
-### Code Review
-[View My Code Review](Code-Review/README.md)
 
 ### Enhancement One: Software Design and Engineering
-[View Enhancement One](Enhancement-One/README.md)
+
+[View Enhancement One](./Enhancement-One/README.md)
+
+[Download Enhancement One Application](./Enhancement-One/ChrisP_Inventory%20app%20Enhancement-One.zip)
 
 ### Enhancement Two: Algorithms and Data Structures
-[View Enhancement Two](Enhancement-Two/README.md)
+
+[View Enhancement Two](./Enhancement-Two/README.md)
+
+[Download Enhancement Two Application](./Enhancement-Two/ChrisP_Inventory%20app%20Enhancement-Two.zip)
 
 ### Enhancement Three: Databases
-[View Enhancement Three](Enhancement-Three/README.md)
 
-### Original and Final Application
-[Download Original Inventory Application](ChrisP_Inventory%20app%20original.zip)
+[View Enhancement Three](./Enhancement-Three/README.md)
 
-[Download Final PC Repair Service Application](ChrisP_Inventory%20final%20app%20.zip)
+[Download Enhancement Three Application](./Enhancement-Three/ChrisP_Inventory%20app%20Enhancement-Three.zip)
+
