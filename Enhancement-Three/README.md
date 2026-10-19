@@ -1,28 +1,29 @@
-# Enhancement Three: Databases Artifact Description
+# Enhancement Three: Databases 
+### Artifact Description
 The artifact I used for this milestone is the same Android app that I have been working on for my other enhancements. The app originally started as an inventory tracking app. I decided to keep building onto it and turn it into something that could be used for a computer repair business.
 For this milestone, I worked mostly on how the repair information is saved. I wanted to make sure that when I added a repair, the information would still be there after I closed the app. I also wanted to be able to go back to an old repair and make changes to it without creating a new record.
-Why I Chose This Enhancement
+### Why I Chose This Enhancement
 I chose to work on the database because keeping records would be important if I actually used this app for a repair business. I would want to be able to look up a customer and see what computer they brought in and what was wrong with it. I would also want to keep the records after the repair was done in case the customer came back later.
 Before working on this part, I had some of the repair screens working, but I needed the repair information to work better with the database. I used SQLite to store the repair records so they would not disappear when the app was closed.
 Each repair now gets its own ID in the database. This ended up being important because the order of the repairs can change when I search, filter, or sort them. Using the ID makes sure the app opens the correct repair instead of just using where it is located in the list.
-What I Changed
+### What I Changed
 One of the changes I made was adding more database functions for the repair records. I made it so the app can save a new repair and then load the repairs from SQLite. I also added a way to get one repair by its ID.
 I added the ability to update a repair too. When I open a repair, I can change information such as the customer's name, phone number, computer information, problem, repair status, priority, and technician notes. When I press Save Changes, the changes are saved back to the same record in SQLite.
 I also worked on the search feature. I changed it so the app can search the repair records in the database. I tested it by searching for things like a customer's name and the type of computer. I can also filter the repairs by their status and sort them by priority or customer name.
 The last thing I added was the option to delete a repair. I did not want a repair to disappear just because the Delete Repair button was pressed by mistake. I added a confirmation box that asks if I am sure I want to delete the repair. If Delete is selected, the repair is removed from the database. If Cancel is selected, nothing is deleted.
-Working With CRUD
+### Working With CRUD
 This milestone also gave me a chance to work with CRUD. CRUD stands for create, read, update, and delete.
 For create, I can enter a new repair and save it. For read, I can see the saved repairs and open one to see all of its information. For update, I can change a repair and save those changes. For delete, I can remove a repair that I no longer want in the database.
 I tested all four of these in the app. I created repair records, opened them, changed their status and other information, and deleted a test repair. I also stopped the app and started it again to make sure the records were still there. The repair I kept was still in the list and all of its information loaded again.
-Problems I Ran Into
+### Problems I Ran Into
 One problem I ran into was making sure the right repair opened after searching or sorting the list. At first, using the position of a repair in the list could cause problems because that position can change.
 I fixed this by using the ID that SQLite gives each repair. When I select a repair, the app sends that repair's ID to the repair detail screen. The detail screen then uses the ID to get that repair from the database. This made more sense because the ID stays with the repair even if its position on the screen changes.
 I also had to make sure the repair list updated after I changed or deleted something. I changed the list so it gets the repair information from SQLite again when I return to the screen. I tested this by changing a repair's status and then deleting another repair. Both changes showed up correctly when I returned to the list.
-What I Learned
+### What I Learned
 This enhancement helped me understand databases better because I was using one for something that I could see working in my own app. I was not just making a table and putting information into it. I had to make the database work with the different screens in the app.
 I also learned more about why IDs are important in a database. Before doing this, I probably would have thought that using the position in a list would be enough. After adding searching and sorting, I could see why that would not work very well.
 Another thing I learned was how the different parts of the app work together. The screen gets information from the user, the Kotlin code handles what the user is doing, and the database stores the information so it can be used again later.
-Reflection
+### Reflection
 I think this enhancement made the app more useful than it was before. A repair app would not be very useful if all of the customer and repair information disappeared every time it was closed. Now I can close the app, open it again, and the repair records are still there.
 I also like that I can keep old repair records instead of having to delete them when the repair is finished. If I was using this for a real repair business, that would let me look back at what was done to a customer's computer before.
 When I first started working on this app, it was mainly for tracking inventory. After the changes I have made through these milestones, it is becoming more like a repair management app. This database enhancement was an important part of that because the repair information can now be saved, searched, changed, and used again later.
