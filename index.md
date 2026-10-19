@@ -25,20 +25,23 @@ Completing this program has helped me see more possibilities for my future in IT
 
 
 
-
 ### Enhancement One: Software Design and Engineering
 
-[View Enhancement One](https://github.com/Renegade2032/CS-499-10026-M01-Computer-Science-Capstone/blob/main/Enhancement-One/ChrisP_Inventory%20app%20Enhancement-One.zip)
+[View Enhancement One](./Enhancement-One/README.md)
 
 [Download Enhancement One Application](./Enhancement-One/ChrisP_Inventory%20app%20Enhancement-One.zip)
 
 ### Enhancement Two: Algorithms and Data Structures
 
-[View Enhancement Two](https://github.com/Renegade2032/CS-499-10026-M01-Computer-Science-Capstone/blob/main/Enhancement-Two/ChrisP_Inventory%20app%20Enhancement-Two.zip)
+[View Enhancement Two](./Enhancement-Two/README.md)
 
 [Download Enhancement Two Application](./Enhancement-Two/ChrisP_Inventory%20app%20Enhancement-Two.zip)
 
 ### Enhancement Three: Databases
+
+[View Enhancement Three](./Enhancement-Three/README.md)
+
+[Download Enhancement Three Application](./Enhancement-Three/ChrisP_Inventory%20app%20Enhancement-Three.zip)
 
 [View Enhancement Three](https://github.com/Renegade2032/CS-499-10026-M01-Computer-Science-Capstone/blob/main/Enhancement-Three/ChrisP_Inventory%20app%20Enhancement-Three.zip)
 
