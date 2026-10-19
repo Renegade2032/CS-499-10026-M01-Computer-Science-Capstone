@@ -27,3 +27,5 @@ Another thing I learned was how the different parts of the app work together. Th
 I think this enhancement made the app more useful than it was before. A repair app would not be very useful if all of the customer and repair information disappeared every time it was closed. Now I can close the app, open it again, and the repair records are still there.
 I also like that I can keep old repair records instead of having to delete them when the repair is finished. If I was using this for a real repair business, that would let me look back at what was done to a customer's computer before.
 When I first started working on this app, it was mainly for tracking inventory. After the changes I have made through these milestones, it is becoming more like a repair management app. This database enhancement was an important part of that because the repair information can now be saved, searched, changed, and used again later.
+
+[Download Enhancement Three Application](./ChrisP_Inventory%20app%20Enhancement-Three.zip)
