@@ -1,4 +1,4 @@
-#Software Design and Engineering Enhancement
+# Enhancement One: Software Design and Engineering
 1. Artifact Description
 The artifact I chose for this milestone is an Android inventory tracking app that I made earlier in the Computer Science program. The app was originally made to keep track of inventory, but for this enhancement I wanted to take what I already had and turn it into something that could be used for a computer repair business.
 I still wanted to keep the inventory part because a repair shop would need to keep track of parts. What I wanted to add was a way to also keep track of customer repairs. My idea is to eventually have one app where I can manage both the parts I have and the computers that are being repaired.
