@@ -25,6 +25,12 @@ Completing this program has helped me see more possibilities for my future in IT
 
 
 
+### Original Application: Inventory Management
+
+This is the original Android inventory application before I made the three enhancements for my CS 499 Capstone.
+
+[Download Original Inventory Application](./ChrisP_Inventory%20app%20original.zip)
+
 ### Enhancement One: Software Design and Engineering
 
 [View Enhancement One](./Enhancement-One/README.md)
