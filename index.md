@@ -43,7 +43,10 @@ Completing this program has helped me see more possibilities for my future in IT
 
 [Download Enhancement Three Application](./Enhancement-Three/ChrisP_Inventory%20app%20Enhancement-Three.zip)
 
-[View Enhancement Three](https://github.com/Renegade2032/CS-499-10026-M01-Computer-Science-Capstone/blob/main/Enhancement-Three/ChrisP_Inventory%20app%20Enhancement-Three.zip)
+### Final Application: PC Repair Service
 
-[Download Enhancement Three Application](./Enhancement-Three/ChrisP_Inventory%20app%20Enhancement-Three.zip)
+This is the completed version of my Android PC Repair Service application, combining the improvements from all three enhancements.
+
+[Download Final PC Repair Service Application](./ChrisP_Inventory%20final%20app%20.zip)
+
 
